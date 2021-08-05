@@ -69,10 +69,10 @@ The purpose of a barcode scanner is to scan or read a barcode symbol and then pr
 - Tracking products
 
 ## **LIBRARIES USED**
-- Pillow
-- Numpy
-- openCV
-- pyzbar
+- `Pillow`
+- `Numpy`
+- `openCV`
+- `pyzbar`
 
 ## **ADVANTAGES**
 
