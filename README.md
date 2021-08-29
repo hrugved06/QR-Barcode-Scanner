@@ -1,3 +1,5 @@
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Live Barcode and QR Code Reader <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
 ## **PROJECT TITLE**
 Live Barcode and QR Code Reader
 
